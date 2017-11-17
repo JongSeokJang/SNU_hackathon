@@ -381,7 +381,7 @@ body:not(.stretched) .slider-parallax .slider-parallax-inner { left: auto; }
 
 .slider-caption.slider-caption-center {
 	position: relative;
-	max-width: 800px;
+	max-width: 600px;
 	text-align: center;
 	margin: 0 auto;
 	left: 0;
@@ -632,4 +632,3 @@ body:not(.stretched) .slider-parallax .slider-parallax-inner { left: auto; }
 
 #slider .owl-dots .owl-dot.active span,
 #slider .owl-dots .owl-dot:hover span { background-color: #FFF !important; }
-
